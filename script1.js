@@ -98,3 +98,12 @@ if (users.length === 2) {
 if (users.length > 2) {
     console.log(` ${users[0]} , ${users[1]} et ${users.length - 2} autres personne sont en ligne`);
 }
+
+
+
+/**
+Correcteur: Yannick GOUGUIA 
+Tu n'as pas fait les exercices XP Gold et Ninja
+
+Merci de les faire
+*/
